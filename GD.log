@@ -1,0 +1,39 @@
+Programm Start
+
+Strings: 19
+Umbruch: 1 (holla) Na
+Umbruch: 2 (das) Na holla
+Umbruch: 3 (sieht) Na holla das
+Umbruch: 4 (ja) Na holla das sieht
+Umbruch: 5 (schonmal) Na holla das sieht ja
+Umbruch: 6 (richtig) Na holla das sieht ja schonmal
+Umbruch: 7 (gut) 
+richtig
+Umbruch: 8 (aus.) 
+richtig gut
+Umbruch: 9 (Jetzt) 
+richtig gut aus.
+Umbruch: 10 (will) 
+richtig gut aus. Jetzt
+Umbruch: 11 (ich) 
+richtig gut aus. Jetzt will
+Umbruch: 12 (mal) 
+ich
+Umbruch: 13 (hoffen) 
+ich mal
+Umbruch: 14 (das) 
+ich mal hoffen
+Umbruch: 15 (es) 
+ich mal hoffen das
+Umbruch: 16 (auch) 
+ich mal hoffen das es
+Umbruch: 17 (so) 
+ich mal hoffen das es auch
+Umbruch: 18 (bleibt) 
+ich mal hoffen das es auch so
+Text: Na holla das sieht ja schonmal 
+richtig gut aus. Jetzt will 
+ich mal hoffen das es auch so 
+bleibt
+B-T: Bild: 512 Text: 98
+
