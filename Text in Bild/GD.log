@@ -37,3 +37,187 @@ ich mal hoffen das es auch so
 bleibt
 B-T: Bild: 512 Text: 98
 
+Programm Start
+
+Strings: 1
+Text: 
+B-T: Bild: 512 Text: 0
+
+Programm Start
+
+Strings: 1
+Text: 
+B-T: Bild: 512 Text: 0
+
+Programm Start
+
+Strings: 1
+Text: 
+B-T: Bild: 512 Text: 0
+
+Programm Start
+
+Strings: 4
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfkashgkahldya&auml;oglhdlaesghoi) Hallo Welt 123456789
+Text: Hallo Welt 123456789 hnjfkashgkahldya&auml;oglhdlaesghoi
+B-T: Bild: 512 Text: 56
+
+Programm Start
+
+Strings: 4
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Text: Hallo Welt 123456789 hnjfka
+B-T: Bild: 512 Text: 27
+
+Programm Start
+
+Strings: 6
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test) Hallo Welt 123456789 hnjfka
+Umbruch: 5 (12345) 
+test
+Text: Hallo Welt 123456789 hnjfka 
+test 12345
+B-T: Bild: 512 Text: 39
+
+Programm Start
+
+Strings: 6
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test) Hallo Welt 123456789 hnjfka
+Umbruch: 5 (12345) 
+test
+Text: Hallo Welt 123456789 hnjfka 
+test 12345
+B-T: Bild: 512 Text: 39
+
+Programm Start
+
+Strings: 6
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test) Hallo Welt 123456789 hnjfka
+Umbruch: 5 (12345) 
+test
+Text: Hallo Welt 123456789 hnjfka 
+test 12345
+B-T: Bild: 512 Text: 39
+
+Programm Start
+
+Strings: 6
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test) Hallo Welt 123456789 hnjfka
+Umbruch: 5 (12345) 
+test
+Text: Hallo Welt 123456789 hnjfka 
+test 12345
+B-T: Bild: 512 Text: 39
+
+Programm Start
+
+Strings: 6
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test) Hallo Welt 123456789 hnjfka
+Umbruch: 5 (12345) 
+test
+Text: Hallo Welt 123456789 hnjfka 
+test 12345
+B-T: Bild: 512 Text: 39
+
+Programm Start
+
+Strings: 5
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test) Hallo Welt 123456789 hnjfka
+Text: Hallo Welt 123456789 hnjfka test
+B-T: Bild: 512 Text: 32
+
+Programm Start
+
+Strings: 5
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test5) Hallo Welt 123456789 hnjfka
+Text: Hallo Welt 123456789 hnjfka test5
+B-T: Bild: 512 Text: 33
+
+Programm Start
+
+Strings: 5
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test5132212546) Hallo Welt 123456789 hnjfka
+Text: Hallo Welt 123456789 hnjfka test5132212546
+B-T: Bild: 512 Text: 42
+
+Programm Start
+
+Strings: 6
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test5132212546) Hallo Welt 123456789 hnjfka
+Umbruch: 5 (lol) 
+test5132212546
+Text: Hallo Welt 123456789 hnjfka 
+test5132212546 lol
+B-T: Bild: 512 Text: 47
+
+Programm Start
+
+Strings: 6
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test5132212546) Hallo Welt 123456789 hnjfka
+Umbruch: 5 (lol) 
+test5132212546
+Text: Hallo Welt 123456789 hnjfka 
+test5132212546 lol
+B-T: Bild: 512 Text: 47
+
+Programm Start
+
+Strings: 5
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Umbruch: 4 (test5132212546) Hallo Welt 123456789 hnjfka
+Text: Hallo Welt 123456789 hnjfka 
+test5132212546
+B-T: Bild: 512 Text: 43
+
+Programm Start
+
+Strings: 4
+Umbruch: 1 (Welt) Hallo
+Umbruch: 2 (123456789) Hallo Welt
+Umbruch: 3 (hnjfka) Hallo Welt 123456789
+Text: Hallo Welt 123456789 hnjfka
+B-T: Bild: 512 Text: 27
+
+Programm Start
+
+Strings: 2
+Umbruch: 1 (Welt) Hallo
+Text: Hallo Welt
+B-T: Bild: 512 Text: 10
+

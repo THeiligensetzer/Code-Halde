@@ -15,14 +15,14 @@ $array2 = $array;
 while(count($strings) > $s){
 	$ts = implode(' ', $array2);
 	if (strlen($ts) > 30){
-		if ($strings[$s] != ''){
+		if (isset($strings[$s])){
 			$strings[$s] = "\n" . $strings[$s]; 
 		}
 		else{
 			$strings[$s -1] .= "\n";
 		}
 		//break;
-		if ($strings[$s] == ''){
+		if (!isset($strings[$s])){
 			break;
 		}
 		$array = [$strings[$s]];
@@ -31,7 +31,7 @@ while(count($strings) > $s){
 	else {
 		$s += 1;
 		$array = $array2;
-		if ($strings[$s] == ''){
+		if (!isset($strings[$s])){
 			break;
 		}
 		array_push($array2, $strings[$s]);
@@ -52,6 +52,6 @@ imagefttext($image, $size, $angle, $x, $y, $color, $font, $text);
 
 file_put_contents('GD.log','B-T: Bild: '.imagesx($image).' Text: '.strlen($text)."\n".PHP_EOL, FILE_APPEND);
 
-header("Content-type: image/png");
+header("Content-Type: image/png");
 imagepng($image);
 imagedestroy($image);
